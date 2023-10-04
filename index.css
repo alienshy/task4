@@ -1,0 +1,101 @@
+nav{display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color:rgb(161, 42, 165);
+    width: 100%;
+    height: 60px;}.diva{
+    background-color: brown;
+    height: 30px;
+    width: 20%;}.divb{
+    background-color: brown;
+    height: 30px;
+    width: 20%;}.divc{
+    background-color: brown;
+    height: 30px;
+    width: 20%;}section{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: orange;
+    width: 100%;
+    height: 400px;}.divd{
+    background-color:cadetblue ;
+    height: 200px;
+    width: 34%; }.divf{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    background-color:cadetblue ;
+    height: 200px;
+    width: 34%;}.divg{
+    background-color: brown;
+    height: 60px;
+    width: 60%;}.divh{
+    background-color: brown;
+    height: 60px;
+    width: 60%;}.ee{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    background-color: rgb(109, 245, 5);
+    height: 300px;
+    width: 100%;}.er{
+    background-color: blueviolet ;
+    height: 60px;
+    width: 25%;}.et{
+    background-color: blueviolet ;
+    height: 60px;
+    width: 25%;}.ey{
+    background-color: blueviolet ;
+    height: 60px;
+    width: 25%;}.eu{
+    background-color: blueviolet ;
+    height: 60px;
+    width: 25%;}.ei{
+    background-color: blueviolet ;
+    height: 60px;
+    width: 25%;}.eo{
+    background-color: blueviolet ;
+    height: 60px;
+    width: 25%;}.df{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color:rgb(91, 150, 10);
+    width: 100%;
+    height: 330px;} .dg{
+    background-color: blueviolet ;
+    height: 200px;
+    width: 30%;} .dh{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    background-color:rgb(91, 150, 10);
+    height: 200px;
+    width: 30%;}.sd{
+    background-color: brown;
+    height: 60px;
+    width: 60%; }.sf{
+    background-color: brown;
+    height: 60px;
+    width: 60%; }footer{
+    background-color: blueviolet;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    height: 60px;}.qw{
+    background: cadetblue;
+    height: 30px;
+    width: 20%;}.qr{
+    background: cadetblue;
+    height: 30px;
+    width: 20%;}
